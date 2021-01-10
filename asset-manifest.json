@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cv-ndiaye-mamadou/static/css/main.9d9bd732.chunk.css",
+    "main.js": "/cv-ndiaye-mamadou/static/js/main.373df7a2.chunk.js",
+    "main.js.map": "/cv-ndiaye-mamadou/static/js/main.373df7a2.chunk.js.map",
+    "runtime-main.js": "/cv-ndiaye-mamadou/static/js/runtime-main.e8335a3d.js",
+    "runtime-main.js.map": "/cv-ndiaye-mamadou/static/js/runtime-main.e8335a3d.js.map",
+    "static/js/2.690b554f.chunk.js": "/cv-ndiaye-mamadou/static/js/2.690b554f.chunk.js",
+    "static/js/2.690b554f.chunk.js.map": "/cv-ndiaye-mamadou/static/js/2.690b554f.chunk.js.map",
+    "static/js/3.06a2a291.chunk.js": "/cv-ndiaye-mamadou/static/js/3.06a2a291.chunk.js",
+    "static/js/3.06a2a291.chunk.js.map": "/cv-ndiaye-mamadou/static/js/3.06a2a291.chunk.js.map",
+    "index.html": "/cv-ndiaye-mamadou/index.html",
+    "static/css/main.9d9bd732.chunk.css.map": "/cv-ndiaye-mamadou/static/css/main.9d9bd732.chunk.css.map",
+    "static/js/2.690b554f.chunk.js.LICENSE.txt": "/cv-ndiaye-mamadou/static/js/2.690b554f.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/cv-ndiaye-mamadou/static/media/shape.1d026b20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8335a3d.js",
+    "static/js/2.690b554f.chunk.js",
+    "static/css/main.9d9bd732.chunk.css",
+    "static/js/main.373df7a2.chunk.js"
+  ]
+}
